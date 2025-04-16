@@ -1,4 +1,4 @@
-# AgGAN: Anatomy-Guided Generative Adversarial Network to Synthesize Arterial Spin Labeling Images in Simulated Microgravity <br>
+# AgGAN: Anatomy-Guided Generative Adversarial Network to Synthesize Arterial Spin Labeling Images under Simulated Microgravity <br>
 
 ## :computer: Dataset<br>
 ### :hospital: Study protocol 
